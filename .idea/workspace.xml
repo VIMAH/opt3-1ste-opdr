@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af432de5-eb8e-4da2-95af-ad9bd727716e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opt3_1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CessnaVliegtuig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CessnaVliegtuigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrijsMetGewicht.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrijsMetGewichtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestVanAlles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalePrijs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalePrijsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29Yt8faqtxvYDiYxyuNWKqStWc9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestVanAlles">
+    <configuration name="TestVanAlles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="opt3_1.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestVanAlles" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalePrijsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="opt3_1.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TotalePrijsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalePrijsTest.getTotaalPrijs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="opt3_1.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TotalePrijsTest" />
+      <option name="METHOD_NAME" value="getTotaalPrijs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalePrijsTest.getTotaalPrijsMetAlsTweeDuizendVijfHonderdAlsBasisprijs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="opt3_1.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TotalePrijsTest" />
+      <option name="METHOD_NAME" value="getTotaalPrijsMetAlsTweeDuizendVijfHonderdAlsBasisprijs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalePrijsTest.getTotaalPrijsMetAlsVijfhonderdAlsBasisprijs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="opt3_1.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TotalePrijsTest" />
+      <option name="METHOD_NAME" value="getTotaalPrijsMetAlsVijfhonderdAlsBasisprijs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestVanAlles" />
+        <item itemvalue="JUnit.TotalePrijsTest" />
+        <item itemvalue="JUnit.TotalePrijsTest.getTotaalPrijsMetAlsTweeDuizendVijfHonderdAlsBasisprijs" />
+        <item itemvalue="JUnit.TotalePrijsTest.getTotaalPrijsMetAlsVijfhonderdAlsBasisprijs" />
+        <item itemvalue="JUnit.TotalePrijsTest.getTotaalPrijs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af432de5-eb8e-4da2-95af-ad9bd727716e" name="Changes" comment="" />
+      <created>1653301691528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653301691528</updated>
+      <workItem from="1653301693106" duration="3698000" />
+      <workItem from="1653316008358" duration="5000" />
+      <workItem from="1653377972233" duration="4319000" />
+      <workItem from="1653399173275" duration="1079000" />
+      <workItem from="1653404211239" duration="1712000" />
+      <workItem from="1653468992385" duration="2626000" />
+      <workItem from="1653480791690" duration="1112000" />
+      <workItem from="1653564762939" duration="3675000" />
+      <workItem from="1653577275628" duration="4937000" />
+      <workItem from="1653646601013" duration="2199000" />
+      <workItem from="1653733860819" duration="1210000" />
+      <workItem from="1653825459671" duration="5710000" />
+      <workItem from="1653897022871" duration="154000" />
+      <workItem from="1653899008228" duration="2616000" />
+      <workItem from="1653983441509" duration="425000" />
+      <workItem from="1653985346643" duration="723000" />
+      <workItem from="1653991037246" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
