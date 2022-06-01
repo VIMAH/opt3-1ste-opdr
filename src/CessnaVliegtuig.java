@@ -12,6 +12,6 @@ public class CessnaVliegtuig {
     }
 
     public boolean CheckCessnaVliegtuig(double Gewicht, double Snelheid, Boolean Toestemmingtoren) {
-        return Toestemmingtoren && Snelheid > 50 || Gewicht < 1000;
+        return Toestemmingtoren && Gewicht < 1000 || Snelheid > 50;
     }
 }
